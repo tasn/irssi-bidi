@@ -1,6 +1,8 @@
 # irssi-bidi
 A bidi plugin for irssi.
 
+Correctly display messages containing RTL text, such as in Hebrew, Arabic and etc.
+
 ## Usage
 Install "fribidi" and make sure you have the fribidi executable in path.
 Follow the instructions at http://scripts.irssi.org/ for how to install the plugin and enable it.
